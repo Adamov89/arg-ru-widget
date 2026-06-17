@@ -60,8 +60,7 @@ Name it:
 
 ### 3. Paste the code
 
-Copy the widget code from this repository and paste it into the script.
-
+Copy the code from ArgRu.js and paste it into Scriptable
 Save.
 
 ### 4. Run once
